@@ -1,0 +1,36 @@
+{
+  "basics":{
+    "photo":"profile.jpg",
+    "name":"NTR",
+    "email":"balubobby90@gmail.com",
+    "mobile":"9642987896",
+    "address":"Tirupati"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+
+  },
+  "education":[
+    {
+
+  "course":"MCA",
+  "college":"SVPCET,PUTTUR",
+  "data":["2017-20","94.9%"]
+},
+{
+  "course":"BSC",
+  "college":"Dr RC Reddy degree college,Tirupati",
+  "data":["2014-17","84.3%"]
+},
+{
+  "course":"MPC",
+  "college":"Sri Krishna reddy chaitanya jr college,Tirupati",
+  "data":["2010-2012","76.4%"]
+},
+{
+  "course":"MCA",
+  "college":"Sri vijaya bharathi high school,Tirupati",
+  "data":["2009-2010","92.6"]
+}
+]
+}
